@@ -1,6 +1,5 @@
-Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
-Being that the driver pass has observed a scarcity of resources designed to assist individuals in successfully passing their drivin¬¬¬¬¬g tests. As a result, they have expressed interest in collaborating with us to develop a website-based platform. This platform will offer students access to online practice exams and the convenience of scheduling on-road training sessions.
+Being that the driver pass has observed a scarcity of resources designed to assist individuals in successfully passing their driving tests. As a result, they have expressed interest in collaborating with us to develop a website-based platform. This platform will offer students access to online practice exams and the convenience of scheduling on-road training sessions.
 
 What did you do particularly well?
 Making the Procces easy and simple 
